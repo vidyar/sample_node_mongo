@@ -1,8 +1,7 @@
 Node.js with MongoDB Sample 
 
-=================
+====================================
 
-[![Build Status](https://apibeta.shippable.com/projects/54eadbce91426fd6a78f7721/badge?branchName=master)](https://appbeta.shippable.com/projects/54eadbce91426fd6a78f7721/builds/latest)
 
 Implements a simple web application using MongoDB, with tests.
 

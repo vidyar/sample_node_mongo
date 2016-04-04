@@ -12,8 +12,8 @@ services:
   
 build:
  cache: true
- cache_dir_list:
-   - $SHIPPABLE_BUILD_DIR/model.js
+# cache_dir_list:
+ #  - $SHIPPABLE_BUILD_DIR/model.js
  ci:
    - npm install
    - mkdir -p shippable/testresults
